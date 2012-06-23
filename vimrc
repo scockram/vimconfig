@@ -80,7 +80,7 @@ if has("gui_running")
   let g:solarized_contrast="high"
   colorscheme Monokai
 else
-  colorscheme solarized
+  colorscheme Monokai
 endif
 
 " Fast switching of background.
