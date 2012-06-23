@@ -34,3 +34,24 @@
 [submodule "bundle/lucius"]
 	path = bundle/lucius
 	url = https://github.com/vim-scripts/Lucius.git
+[submodule "bundle/vim-textile"]
+	path = bundle/vim-textile
+	url = https://github.com/scy/vim-textile.git
+[submodule "bundle/vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = git://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "bundle/turbux"]
+	path = bundle/turbux
+	url = https://github.com/jgdavey/vim-turbux.git
+[submodule "bundle/vimux"]
+	path = bundle/vimux
+	url = https://github.com/benmills/vimux.git

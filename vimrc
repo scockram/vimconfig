@@ -77,9 +77,14 @@ set background=dark
 if has("gui_running")
   set guifont=Inconsolata\ 12
   set guioptions= " No GUI stuff
-  let g:solarized_contrast="high"
   colorscheme Monokai
 else
+  set background=dark
+  "let g:solarized_termcolors=256
+  "let g:solarized_italic=0
+  "let g:solarized_degrade=1
+  "let g:solarized_termtrans=0
+  "colorscheme solarized
   colorscheme Monokai
 endif
 
@@ -147,6 +152,8 @@ let g:miniBufExplSplitBelow=0
 autocmd BufRead,BufNew :call UMiniBufExplorer
 map <leader>u :TMiniBufExplorer<cr>
 
+""" Indents
+" ,ig and similar...
 
 
 """ Statusline
