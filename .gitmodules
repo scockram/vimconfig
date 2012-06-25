@@ -31,6 +31,9 @@
 [submodule "bundle/vim-pasta"]
 	path = bundle/vim-pasta
 	url = https://github.com/sickill/vim-pasta.git
+[submodule "bundle/lucius"]
+	path = bundle/lucius
+	url = https://github.com/vim-scripts/Lucius.git
 [submodule "bundle/vim-textile"]
 	path = bundle/vim-textile
 	url = https://github.com/scy/vim-textile.git
@@ -55,3 +58,6 @@
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/slim"]
+	path = bundle/slim
+	url = https://github.com/bbommarito/vim-slim.git
